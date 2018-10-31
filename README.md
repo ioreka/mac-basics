@@ -45,6 +45,10 @@ Please keep in mind that these are just my opinion - you don't have to use what 
 
 `⌘ + D` select the next matching item as the one you have currently selected
 
+`⌘ + L` select entire line
+
+`⌘ + SHIFT + D` duplicated entire line
+
 `⌘ + F` find in the current pane
 
 `⌘ + SHIFT + F` find in the entire open directory
@@ -71,16 +75,6 @@ Please keep in mind that these are just my opinion - you don't have to use what 
 
 `mdfind <search_term_string>` searches and returns things containing that string; like spotlight in the terminal https://ss64.com/osx/mdfind.html
 
-`grep` (global regular expression print) very powerful and versatile, mostly used to search text or search any given file for lines containing a match to the supplied words/strings. Basic syntax is:
-
-```
-grep 'word' filename
-grep 'word' file1 file2 file3
-grep 'string1 string2'  filename
-cat otherfile | grep 'something'
-command | grep 'something'
-command option1 | grep 'data'
-grep --color 'data' fileName```
 
 ## Other suggestions
 Spectacle for window layout - be aware this will overwrite some other shortcuts
@@ -89,4 +83,4 @@ Spectacle for window layout - be aware this will overwrite some other shortcuts
 
 Further reading:
 - https://www.dummies.com/computers/macs/macbook/macbook-all-in-one-for-dummies-cheat-sheet/
-- https://atom.io/packages/atom-shortcuts
+- https://blog.bugsnag.com/atom-editor-cheat-sheet/

@@ -1,7 +1,7 @@
 array = ["apples", "oranges", "pears", "cherries", "plums", "pineapples"]
 
 
-def stupidly_named_method
+def nice_method
   does some cool stuff
-  but is a stupidly_named_method
+  but is a nice_method
 end

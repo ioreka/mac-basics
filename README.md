@@ -41,6 +41,14 @@ Please keep in mind that these are just my opinion - you don't have to use what 
 
 `⌘ + <-` go back a page
 
+`⌘ + <num>` tab number
+
+`⌘ + <arrow>` go to end or start of line
+
+`OPTION + SHIFT + <arrow>` select word by word
+
+
+
 ## Atom Text Editor
 
 `⌘ + D` select the next matching item as the one you have currently selected
@@ -53,7 +61,7 @@ Please keep in mind that these are just my opinion - you don't have to use what 
 
 `⌘ + SHIFT + F` find in the entire open directory
 
-`⌘ + /` comment out the entire line
+`⌘ + /` toggle comment on the entire line
 
 `CRTL + A` jump to the beginning of a line
 
@@ -78,6 +86,10 @@ Please keep in mind that these are just my opinion - you don't have to use what 
 
 ## Other suggestions
 Spectacle for window layout - be aware this will overwrite some other shortcuts
+
+DASH Documentation - https://kapeli.com/dash
+
+Cheatsheet - https://www.mediaatelier.com/CheatSheet/
 
 
 

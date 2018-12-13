@@ -24,9 +24,15 @@ Please keep in mind that these are just my opinion - you don't have to use what 
 
 `⌘ + SHIFT + TAB` Scroll backwards through your applications
 
+`⌘ + `` Scroll through "instances" (get it?) of the same application
+
 `⌘ + W` close this window
 
 `⌘ + Q` close this application
+
+Fullscreen on mac - alternatively hold down maximise (green) to create split screen
+
+Mac gestures - eg three fingers up
 
 ## Chrome:
 `⌘ + L` select the browser bar
@@ -77,11 +83,19 @@ Please keep in mind that these are just my opinion - you don't have to use what 
 
 `⌘ + DELETE` deletes entire line
 
+`⌘ + X` cuts entire line (if there is no selection)
+
 ## Terminal / iTerm
 
 `TAB` autocompletes text currently being typed
 
 `mdfind <search_term_string>` searches and returns things containing that string; like spotlight in the terminal https://ss64.com/osx/mdfind.html
+
+`⌘ + T` new tab
+
+`⌘ + N` new window
+
+`⌘ + D` split pane 
 
 
 ## Other suggestions
@@ -90,6 +104,12 @@ Spectacle for window layout - be aware this will overwrite some other shortcuts
 DASH Documentation - https://kapeli.com/dash
 
 Cheatsheet - https://www.mediaatelier.com/CheatSheet/
+
+Chrome extension - The Great Suspender - frees up memory from inactive tabs
+
+Chrome extension - Toggl
+
+oh-my-zsh - terminal help / process
 
 
 

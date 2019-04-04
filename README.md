@@ -49,7 +49,7 @@ Mac gestures - eg three fingers up
 
 `⌘ + <num>` tab number
 
-`⌘ + <arrow>` go to end or start of line
+`⌘ + <arrow>` go to end or start of page
 
 `OPTION + SHIFT + <arrow>` select word by word
 
@@ -87,6 +87,8 @@ Mac gestures - eg three fingers up
 
 ## Terminal / iTerm
 
+`learn next` fork and clone and gem install/npm install straight into Development/code
+
 `TAB` autocompletes text currently being typed
 
 `mdfind <search_term_string>` searches and returns things containing that string; like spotlight in the terminal https://ss64.com/osx/mdfind.html
@@ -95,7 +97,7 @@ Mac gestures - eg three fingers up
 
 `⌘ + N` new window
 
-`⌘ + D` split pane 
+`⌘ + D` split pane
 
 
 ## Other suggestions
